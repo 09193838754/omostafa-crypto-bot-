@@ -12,3 +12,4 @@ def send_message(text):
 while True:
     print("Bot is running…")
     time.sleep(10)
+import os
